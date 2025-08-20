@@ -2,6 +2,10 @@
 
 a) first task, hello world site
 
+```
+echo hello world
+```
+
 ## References
 
 https://terokarvinen.com/linux-palvelimet/
