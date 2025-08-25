@@ -21,7 +21,7 @@ https://terokarvinen.com/linux-palvelimet/
 <details>
 
 x) Read and summarize (A few lines of French from each article will suffice. There is no need to do any tests on a computer in this section)
-Writing a report
+Writing a report https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
 
 a) Install Linux on a virtual machine. (Make a new virtual machine for the report, even if you have installed it before)
 
