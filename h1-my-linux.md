@@ -118,14 +118,14 @@ example:
 
 ## Resources
 
-https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md
+- https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md
 (Johanna Heinonen 2025)
 
 
-https://terokarvinen.com/linux-palvelimet/
+- https://terokarvinen.com/linux-palvelimet/
 (Tero Karvinen 2025)
 
 
 
-https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
+- https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
 (Tero Karvinen 2006)
