@@ -22,7 +22,9 @@ https://terokarvinen.com/linux-palvelimet/
 
 x) Read and summarize (A few lines of French from each article will suffice. There is no need to do any tests on a computer in this section)
 Writing a report
+
 a) Install Linux on a virtual machine. (Make a new virtual machine for the report, even if you have installed it before)
+
 k) Optional bonus: my favorite program on Linux. Perform and report a simple operation using a Linux program of your choice.
 
 </details>
