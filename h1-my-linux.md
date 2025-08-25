@@ -29,6 +29,8 @@ k) Optional bonus: my favorite program on Linux. Perform and report a simple ope
 
 </details>
 
+---
+
 ## X - Read and summarize
 
 How to write a report by Tero Karvinen
@@ -41,6 +43,8 @@ How to write a report by Tero Karvinen
 - Also write reports about stuff that did not work.
 
 - Remember to mention tools used and cite the sources 
+ 
+---
 
 ## A - Install Linux on a VM
 
@@ -110,6 +114,7 @@ example:
 
 ![](assets/1756142013940.png)
 
+--- 
 
 ## Resources
 
