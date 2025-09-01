@@ -284,7 +284,10 @@ I have previously also installed some of these, but to install i go back to prev
 
 To install all the plugins in the guide:
 
+
+
 ```
+sudo apt-get -y install micro fzf pythonpy git exuberant-ctags
 micro --plugin install jump
 cd .config/micro/plug/
 git clone https://github.com/terokarvinen/palettero.git
