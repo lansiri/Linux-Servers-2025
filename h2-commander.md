@@ -320,3 +320,5 @@ https://terokarvinen.com/2022/command-palette-cheatsheet-run-and-make-micro/
 https://terokarvinen.com/linux-palvelimet/
 (tero karvinen 2025)
 
+https://terokarvinen.com/2020/command-line-basics-revisited
+(tero karvinen 2020)
